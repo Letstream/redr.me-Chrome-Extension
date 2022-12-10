@@ -1,0 +1,10 @@
+{
+    "appName": {
+      "message": "Redr.me",
+      "description": "Name of App"
+    },
+    "appDesc": {
+      "message": "Anonymous URL Shorterning, now for Chromium!",
+      "description": "Description of App"
+    }
+  }
